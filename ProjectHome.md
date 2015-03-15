@@ -1,0 +1,1 @@
+A repository of all pdfs and other documents on the state of the art in dynamical non-linear control systems, stochastic processes and machine learning communities. These documents will be used within the Soton-Oxford collaboration on devising GP based control mechanisms for heating, inspired by models of physical processes.
